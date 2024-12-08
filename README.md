@@ -26,8 +26,8 @@ The **ChronicleX** is a web application that provides users with the latest news
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/interactive-news-website.git
-   cd interactive-news-website
+   git clone https://github.com/yourusername/ChronicleX.git
+   cd ChronicleX
    ```
 2. Open the `index.html` file in your browser.
 
